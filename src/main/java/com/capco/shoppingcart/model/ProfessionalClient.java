@@ -17,16 +17,5 @@ public class ProfessionalClient extends Client {
         this.companyName = companyName;
         this.annualRevenue = annualRevenue;
     }
-//
-//    public ProfessionalClient(String clientId, String companyName,
-//                               String businessRegistrationNumber,
-//                               String vatNumber,
-//                              double annualRevenue) {
-//        super(clientId);
-//        this.companyName = companyName;
-//        this.businessRegistrationNumber = businessRegistrationNumber;
-//        this.vatNumber = vatNumber;
-//        this.annualRevenue = annualRevenue;
-//    }
 
 }
